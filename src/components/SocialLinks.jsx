@@ -13,7 +13,7 @@ const SocialLinks = () => {
                 LinkedIn <FaLinkedin size={30} />
                 </>
             ),
-            href: 'https://www.linkedin.com/in/votana-srey-897947199/',
+            href: 'https://www.linkedin.com/in/votana-v-srey-897947199/',
             style: 'rounded-tr-md'
         },
         {

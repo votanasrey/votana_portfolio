@@ -13,7 +13,7 @@ const Home = () => {
             
             <h1 className='text-2xl md:text-7xl font-bold text-white mb-2 mt-3 md:mt-0 md:mb-4'>VOTANA SREY</h1>
             <h2 className='rounded-md bg-sky-700 max-w-max px-6 inline text-xl md:text-1xl lg:text-1xl font-semibold text-white'>Digital Data Scientist</h2>
-            <p className='text-gray-300 py-4 max-x-md text-justify'> Votana is a Digital Data Scientist with over 3 years of experiences. He specializes in extracting meaningful insights from data, building predictive models, and delivering data-driven solutions and enable new business with increable Artificial Intelligence Technologies. He has a proven track record of collaborating with cross-functional teams and helping businesses thrive through data-driven decision-making.</p>
+            <p className='text-gray-300 py-4 max-x-md text-justify'> As a dedicated professional in the realm of Data Science with a specialized focus on Artificial Intelligence and Data Intelligence, Votana's career is characterized by a deep commitment to advancing in advanced analytics, machine learning, statistical modeling, and AI applications. Expertise in extracting pivotal insights from intricate data sets and developing AI-driven solutions with my approach is geared towards making a significant impact in applying AI, Collaboration, and effective communication.</p>
 
             <MobileSocialLinks />
           </div>

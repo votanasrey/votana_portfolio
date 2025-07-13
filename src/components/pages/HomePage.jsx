@@ -54,12 +54,11 @@ const HomePage = () => {
             <Home />
             <About />
             <Education />
-            <MyProjects />
-            <Techs />
-            <CertificateSlider certificates={certificates} />
             <Edition />
             <Volunteer />
-            <Contact />
+            <CertificateSlider certificates={certificates} />
+            <MyProjects />
+            <Techs />
 
         </>
     )

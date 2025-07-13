@@ -9,12 +9,12 @@ const GeneralFooter = () => {
                     <i className='bx bxl-github' ></i>
                 </a>
 
-                <a className='text-4xl hover:text-primary-color hover:animate-bounce' target='_blank' href="https://www.linkedin.com/in/votana-srey-897947199/">
+                <a className='text-4xl hover:text-primary-color hover:animate-bounce' target='_blank' href="https://www.linkedin.com/in/votana-v-srey-897947199/">
                     <i className='bx bxl-linkedin-square' ></i>
                 </a>
             </div>
 
-            <p className='md:order-2'>• Copyright ©2024 | All rights reserved • </p>
+            <p className='md:order-2'>• Copyright ©2025</p>
             <p>Votana SREY</p>
         </footer>
     )
